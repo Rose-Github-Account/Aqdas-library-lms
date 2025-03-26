@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Python Crash Course",
+    "author": "John Doe",
+    "publication_year": 2019,
+    "genre": "Programming",
+    "read_status": false,
+    "added_data": "2025-3-11 11:36:40"
+  },
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Jane Smith",
+    "publication_year": 2020,
+    "genre": "Programming",
+    "read_status": true,
+    "added_data": "2025-3-11 12:15:22"
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Michael Johnson",
+    "publication_year": 2021,
+    "genre": "Programming",
+    "read_status": false,
+    "added_data": "2025-3-11 13:05:10"
+  },
+  {
+    "title": "Effective Python",
+    "author": "Emily Davis",
+    "publication_year": 2018,
+    "genre": "Programming",
+    "read_status": true,
+    "added_data": "2025-3-11 14:20:30"
+  }
+]
